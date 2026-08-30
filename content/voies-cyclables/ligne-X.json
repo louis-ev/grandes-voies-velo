@@ -444015,12 +444015,12 @@
         "line": "X",
         "name": "rue des Vesprée",
         "status": "done",
-        "doneAt": "01/01/2000",
-        "type": "aucun",
-        "quality": "unsatisfactory",
+        "doneAt": "01/01/2026",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
         "infrastructure": "magistrale",
         "link": "",
-        "cycloscore": "D"
+        "cycloscore": "B"
       }
     },
     {

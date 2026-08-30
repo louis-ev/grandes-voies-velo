@@ -1196,12 +1196,12 @@
         "line": "F",
         "name": "Route de Carquefou 3",
         "status": "done",
-        "doneAt": "01/01/2000",
-        "type": "aucun",
-        "quality": "unsatisfactory",
+        "doneAt": "01/01/2026",
+        "type": "bilaterale",
+        "quality": "satisfactory",
         "infrastructure": "structurante",
         "link": "",
-        "cycloscore": "E"
+        "cycloscore": "C"
       }
     },
     {
