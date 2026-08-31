@@ -442474,33 +442474,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.526851749,
-            47.206806399
-          ],
-          [
-            -1.523706703,
-            47.204945028
-          ]
-        ]
-      },
-      "properties": {
-        "line": "X",
-        "name": "Pont Léopold-Sédar-Sanghor",
-        "status": "done",
-        "doneAt": "01/01/2025",
-        "type": "bidirectionnelle",
-        "quality": "satisfactory",
-        "infrastructure": "structurante",
-        "link": "",
-        "cycloscore": "C"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.571316309,
             47.202849311
           ],

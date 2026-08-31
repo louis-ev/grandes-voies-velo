@@ -1574,6 +1574,33 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.526851749,
+            47.206806399
+          ],
+          [
+            -1.523706703,
+            47.204945028
+          ]
+        ]
+      },
+      "properties": {
+        "line": "D",
+        "name": "Pont Léopold-Sédar-Sanghor",
+        "status": "done",
+        "doneAt": "01/01/2025",
+        "type": "bidirectionnelle",
+        "quality": "satisfactory",
+        "infrastructure": "structurante",
+        "link": "",
+        "cycloscore": "C"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.54677736,
             47.215337482
           ],
